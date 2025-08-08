@@ -1,4 +1,5 @@
 D:\Dev\Workspace\reservaquarkus\src\main\java\dev\hquispeon\reservaquarkus\controller\ReservaController.java
-D:\Dev\Workspace\reservaquarkus\src\main\java\dev\hquispeon\reservaquarkus\entity\Reserva.java
 D:\Dev\Workspace\reservaquarkus\src\main\java\dev\hquispeon\reservaquarkus\GreetingResource.java
+D:\Dev\Workspace\reservaquarkus\src\main\java\dev\hquispeon\reservaquarkus\model\Reserva.java
 D:\Dev\Workspace\reservaquarkus\src\main\java\dev\hquispeon\reservaquarkus\MyLivenessCheck.java
+D:\Dev\Workspace\reservaquarkus\src\main\java\dev\hquispeon\reservaquarkus\service\ReservaService.java

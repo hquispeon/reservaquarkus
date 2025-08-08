@@ -1,4 +1,4 @@
-package dev.hquispeon.reservaquarkus.entity;
+package dev.hquispeon.reservaquarkus.model;
 
 import java.time.LocalDateTime;
 

@@ -1,4 +1,5 @@
-dev\hquispeon\reservaquarkus\entity\Reserva.class
 dev\hquispeon\reservaquarkus\GreetingResource.class
 dev\hquispeon\reservaquarkus\MyLivenessCheck.class
+dev\hquispeon\reservaquarkus\model\Reserva.class
 dev\hquispeon\reservaquarkus\controller\ReservaController.class
+dev\hquispeon\reservaquarkus\service\ReservaService.class
